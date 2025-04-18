@@ -1,0 +1,21 @@
+﻿  main.c
+D:\c\Labs 2\STACK OPERATIONS\notation\Functions.h(128,29): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\notation\Functions.h(139,39): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\notation\Functions.h(152,105): warning C4244: функция: преобразование "double" в "char", возможна потеря данных
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\notation\Functions.h(154,39): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\notation\Functions.h(173,21): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\notation\Functions.h(184,27): warning C4244: =: преобразование "double" в "char", возможна потеря данных
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\notation\Functions.h(238,1): warning C4715: calculateRPN: значение возвращается не при всех путях выполнения
+  notation.vcxproj -> D:\c\Labs 2\STACK OPERATIONS\notation\x64\Debug\notation.exe
