@@ -1,0 +1,21 @@
+﻿  main.c
+D:\c\Labs 2\STACK OPERATIONS\queue\Functions.h(298,39): warning C4133: функция: несовместимые типы - из "list2 *" в "list1 *"
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\queue\Functions.h(298,49): warning C4133: функция: несовместимые типы - из "list1 *" в "list2 *"
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\queue\Functions.h(397,9): warning C4098: queue: функция типа "void", возвращающая значение
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\queue\Functions.h(437,9): warning C4098: deque: функция типа "void", возвращающая значение
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\queue\Functions.h(488,9): warning C4098: queues: функция типа "void", возвращающая значение
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\queue\Functions.h(493,9): warning C4098: queues: функция типа "void", возвращающая значение
+  (компиляция исходного файла "main.c")
+  
+D:\c\Labs 2\STACK OPERATIONS\queue\Functions.h(574,1): warning C4716: work: должна возвращать значение
+  queue.vcxproj -> D:\c\Labs 2\STACK OPERATIONS\queue\x64\Debug\queue.exe
